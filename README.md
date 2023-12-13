@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emmah Zanele Mpofu
 - 👀 I’m interested in Coding and Activism
-- 🌱 I’m currently learning front-end Development
+- 🌱 I’m a software developer (front-end) 
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me on LinkedIn https://zw.linkedin.com/in/emmah-zanele-mpofu-a3b649254 https://zw.linkedin.com/in/emmah-zanele-mpofu-a3b649254
 
