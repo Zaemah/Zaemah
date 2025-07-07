@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Emmah Zanele Mpofu
-- 👀 I’m interested in Coding and Activism
-- 🌱 I’m a software developer (front-end) 
-- 💞️ I’m looking to collaborate on various projects
-- 📫 How to reach me on LinkedIn https://zw.linkedin.com/in/emmah-zanele-mpofu-a3b649254 https://zw.linkedin.com/in/emmah-zanele-mpofu-a3b649254
+👋 Hi, I’m Emmah Zanele Mpofu  
+👀 Passionate about coding and software development  
+🌱 Continuously learning and building impactful projects  
+💞️ Open to collaboration on diverse tech and social innovation projects  
+📫 Connect with me on LinkedIn: [Emmah Zanele Mpofu](https://zw.linkedin.com/in/emmah-zanele-mpofu-a3b649254)
+
 
 <!---
 Zaemah/Zaemah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
